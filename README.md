@@ -28,3 +28,10 @@ A beginner Python project that asks for the user's name and age, then responds w
        How old are you? 18
        Cool! In 10 years, you will be 28.
 
+
+      ## Usage
+
+   Run the program in terminal
+   ```bash
+   python hello_user.py
+
